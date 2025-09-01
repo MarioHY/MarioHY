@@ -1,4 +1,3 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -8,9 +7,9 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
+    runs-on: ubuntu-latest
     environment: 
       name: production
-    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
