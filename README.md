@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height="" />
   <!-- 小人，网友自建的网站 -->
   <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
-  </br>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=shadow-blue" align="right" width="45%" height=""/>
 
   <!-- 评级 -->
