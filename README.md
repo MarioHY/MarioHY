@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="45%" height="" />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mariohy)
 
 <!-- ![Metrics](/github-metrics.svg) -->
 
