@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <!-- 连续github -->
   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=shadow-blue" align="right" width="45%" height=""/>
   <!-- 图表 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" style="margin-top: 10px; margin-bottom: 10px;" align="right" width="45%" height=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45%" height=""/>
   <!-- 评级 -->
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="45%" height="" />
 </div>
