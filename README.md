@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height="" />
   <!-- 小人，网友自建的网站 -->
   <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=shadow-blue" align="right" width="45%" height=""/>
+  
+  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=shadow-blue" align="right" width="45%" margin_top="10 px" height=""/>
 
   <!-- 评级 -->
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="45%" height="" />
