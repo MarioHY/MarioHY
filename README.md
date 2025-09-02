@@ -20,15 +20,15 @@ Here are some ideas to get you started:
   <!-- action auto generate -->
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="43%" height=""/>
   <!-- 小人，网友自建的网站 -->
-  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
+  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="46%" height=""/>
   <!-- 连续github -->
-  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45%" height=""/>
+  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="46%" height=""/>
   <img src="/img/gap.png" align="right" width="45%" height="8px"/>
   <!-- 图表 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45%" height="" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="46%" height="" />
   <img src="/img/gap.png" align="right" width="45%" height="8px"/>
   <!-- 评级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45%" height="" style="margin: 0px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="46%" height="" style="margin: 0px;"/>
 </div>
 
 
