@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
+<div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
   <img src="/github-metrics.svg" align="right" width="45%" height="" />
-</div> -->
+  <!-- 评级 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="45%" height="" />
+</div>
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
+
 
 ![MarioHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioHY)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioHY)
+
 
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioHY) -->
 
