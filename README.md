@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
-  <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height="" />
-  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
+  <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="48%" height="" />
+  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="48%" height=""/>
   <!-- 评级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="45%" height="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=synthwave" align="right" width="48%" height="" />
 </div>
 
 <!-- ![Metrics](/github-metrics.svg) -->
