@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="/image/details.jpg" />
+<!-- <img align="center" src="/image/details.jpg" /> -->
 
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
   <!-- action auto generate -->
