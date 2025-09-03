@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <img align="center" src="/img/details.jpg" />-->
+<img align="center" src="/image/details.jpg" />
 
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
   <!-- action auto generate -->
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45.5%" height=""/>
   <!-- 连续github -->
   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45.5%" height=""/>
-  <img src="/img/gap.png" align="right" width="45.5%" height="5px"/>
+  <img src="/image/gap.png" align="right" width="45.5%" height="5px"/>
   <!-- 图表 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45.5%" height="" />
-  <img src="/img/gap.png" align="right" width="45.5%" height="5px"/>
+  <img src="/image/gap.png" align="right" width="45.5%" height="5px"/>
   <!-- 评级 -->
   <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45.5%" height="" style="margin: 0px;"/>
 </div>
