@@ -58,19 +58,3 @@ jobs:
           plugin_notable: yes
           plugin_discussions: yes
 
-      # https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md
-      - name: 3rd platform
-        uses: lowlighter/metrics@latest
-        with:
-          # filename: metrics.plugin.leetcode.svg
-          # filename: metrics.plugin.wakatime.svg
-          filename: image/README/metrics.plugin.3rd.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
-
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
