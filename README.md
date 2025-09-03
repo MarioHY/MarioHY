@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <!-- 小人，网友自建的网站 -->
   <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
   <!-- 连续github -->
-  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45%%" height=""/>
+<!--   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45%%" height=""/> -->
+  <img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45%" height=""/>
   <img src="/image/gap.png" align="right" width="45%%" height="5px"/>
   <!-- 图表 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45%%" height="" />
