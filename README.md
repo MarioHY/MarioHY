@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
   <!-- action auto generate -->
-  <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45.5%" height=""/>
-<!--   <img src="/image/README/general.svg" align="left" width="45.5%%" height=""/> -->
+  <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height=""/>
+<!--   <img src="/image/README/general.svg" align="left" width="45%%" height=""/> -->
   <!-- 小人，网友自建的网站 -->
-  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45.5%" height=""/>
+  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
   <!-- 连续github -->
-  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45.5%" height=""/>
-<!--   <img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45.5%" height=""/> -->
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45.5%" height=""/></a> -->
-  <img src="/image/gap.png" align="right" width="45.5%" height="5px"/>
+  <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="right" width="45%" height=""/>
+<!--   <img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45%" height=""/> -->
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45%" height=""/></a> -->
+  <img src="/image/gap.png" align="right" width="45%" height="5px"/>
   <!-- 图表 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45.5%" height="" />
-  <img src="/image/gap.png" align="right" width="45.5%" height="5px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45%" height="" />
+  <img src="/image/gap.png" align="right" width="45%" height="5px"/>
   <!-- 评级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45.5%" height="" style="margin: 0px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45%" height="" style="margin: 0px;"/>
 </div>
 
 
