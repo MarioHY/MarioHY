@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
   <!-- action auto generate -->
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height=""/>
-<!--   <img src="/image/README/general.svg" align="left" width="45.5%" height=""/> -->
+<!--   <img src="/image/README/general.svg" align="left" width="45%" height=""/> -->
   <!-- 小人，网友自建的网站 -->
   <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
   <!-- 连续github -->
