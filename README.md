@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height=""/>
 <!--   <img src="/image/README/general.svg" align="left" width="45%" height=""/> -->
   <!-- 小人，网友自建的网站 -->
-  <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
+  <!-- <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/> -->
+  <img src="https://moe-counter.lvdpub.com/MarioHY?theme=rule34&render=auto&length=auto&add=0" alt="MarioHY" align="right" width="45%" height=""/>
+  
   <!-- 连续github -->
 <!--   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="righ5width="45%" height=""/> -->
   <img src="https://streak-stats.demolab.com?user=MarioHY&theme=city-lights&hide_border=true" alt="GitHub Streak" align="right" width="45%" height=""/>
