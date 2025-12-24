@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--   <img src="/image/README/general.svg" align="left" width="45%" height=""/> -->
   <!-- 小人，网友自建的网站 -->
   <!-- <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/> -->
-  <img src="https://count.himiku.com/MarioHY?theme=rule34" alt="MarioHY" align="right" width="45%" height=""/>
+  <img src="https://count.himiku.com/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/>
   
   <!-- 连续github -->
 <!--   <img src="https://streak-stats.demolab.com/?user=MarioHY&theme=city-lights" align="righ5width="45%" height=""/> -->
