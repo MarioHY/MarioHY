@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <!-- 小人，网友自建的网站 -->
   <!-- <img src="https://api.likepoems.com/counter/get/@MarioHY" alt="MarioHY" align="right" width="45%" height=""/> -->
   <!-- <img src="https://count.himiku.com/@MarioHY?theme=rule34" alt="MarioHY" align="right" width="45%" height=""/> -->
-  <img src="https://count.himiku.com/@Mariohy?name=Mariohy&theme=rule34&padding=9&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto&num=0" alt="MarioHY" align="right" width="45%" height=""/>
+  <!-- <img src="https://count.himiku.com/@Mariohy?name=Mariohy&theme=rule34&padding=9&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto&num=0" alt="MarioHY" align="right" width="45%" height=""/> -->
+  <img src="https://mariohy.dpdns.org//@Mariohy?name=Mariohy&theme=rule34&padding=9&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto&num=0" alt="MarioHY" align="right" width="45%" height=""/>
   
   
   <!-- 连续github -->
