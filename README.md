@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="/image/details.jpg" /> -->
 
 <div align="center" style="background-color: #00dbde;background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);">
+
+  <img src="https://acgapi.dpdns.org" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; margin-bottom: -5px;"/>
+  
   <!-- action auto generate -->
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height=""/>
 <!--   <img src="/image/README/general.svg" align="left" width="455%" height=""/> -->
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarioHY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" align="right" width="45%" />
   
-  <img src="https://acgapi.dpdns.org" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; margin-top: -5px;"/>
+
 </div>
 
 
