@@ -35,8 +35,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioHY&theme=tokyo-night" align="right" width="45%" height="" />
   <img src="/image/gap.png" align="right" width="45%" height="5px"/>
   <!-- 评级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45%" height="" style="margin: 0px;"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MarioHY&show_icons=true&theme=github_dark_dimmed" align="right" width="45%" height="" style="margin: 0px;"/> -->
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarioHY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" align="right" width="45%" />
+  
+  <img src="https://acgapi.dpdns.org" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; margin-top: -5px;"/>
 </div>
+
 
 
 <!-- ![Metrics](/github-metrics.svg) -->
