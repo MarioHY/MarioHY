@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarioHY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" align="right" width="45%" />
   
-  <img src="https://acgapi.dpdns.org/" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; margin-bottom: -5px;"/>
+  <img src="https://acgapi.dpdns.org" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; margin-bottom: -5px;"/>
 
 </div>
 
