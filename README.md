@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <a href="https://acgapi.dpdns.org">
     <img src="https://pc.mariohy.top/pc/img838.webp" width="100%" style="border-radius: 0 0 15px 15px; object-fit: cover; display: block;">
   </a>
-  
   <!-- action auto generate -->
   <img src="https://github.com/MarioHY/metrics/blob/master/github-metrics.svg" align="left" width="45%" height=""/>
 <!--   <img src="/image/README/general.svg" align="left" width="455%" height=""/> -->
